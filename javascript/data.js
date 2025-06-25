@@ -1,17 +1,17 @@
 export const blogposts = [
   {
-    title: "Blog one",
+    title: "SaaS Landing Page",
     date: "2025-06-25",
     subhed:
-      "I'm excited to start a new learning journey as a Scrimba Bootcamp student! After several months of learning in the Frontend Developer Career Path.",
+      "sunqfuAi is a sleek, modern, and responsive SaaS landing page designed for an AI-powered service or product. This page showcases features, benefits, and a strong call to action — ideal for attracting early adopters and presenting your AI startup professionally.",
     image: "./images/desk.png",
     alt: "A laptop on a desk",
   },
   {
-    title: "Blog two",
+    title: "NFT Preview Card",
     date: "2025-06-25",
     subhed:
-      "I'm excited to start a new learning journey as a Scrimba Bootcamp student! After several months of learning in the Frontend Developer Career Path.",
+      "This is a stylish NFT Preview Card Component, built as part of the Scrimba Frontend Career Path. It displays a clean, minimal NFT card with details such as the NFT title, price, and creator information.",
     image: "./images/lightbulb.png",
     alt: "A person holding a lightbulb",
   },
