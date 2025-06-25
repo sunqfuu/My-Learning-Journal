@@ -17,7 +17,7 @@
 ## 🌍 Live Demo
 
 🚀 See it live:  
-👉 [https://sunqfuu.github.io/My-Learning-Journal/](https://sunqfuu.github.io/My-Learning-Journal/)
+👉 [sunqfu-journal-547720.netlify.app/](sunqfu-journal-547720.netlify.app/)
 
 ---
 
@@ -31,38 +31,38 @@ Built with **HTML**, **CSS**, and **JavaScript**, this project helped solidify c
 
 ## ✨ Features
 
-- 🖼️ Clean and responsive blog layout  
-- 📚 "Recent posts" and article view pages  
-- 🧭 Simple navigation bar and internal linking  
-- 📱 Mobile-friendly and accessible structure  
+- 🖼️ Clean and responsive blog layout
+- 📚 "Recent posts" and article view pages
+- 🧭 Simple navigation bar and internal linking
+- 📱 Mobile-friendly and accessible structure
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tech         | Role                            |
-|--------------|----------------------------------|
-| **HTML5**     | Page structure and layout        |
-| **CSS3**      | Styling and responsive design    |
-| **JavaScript**| Page logic and event handling    |
+| Tech           | Role                          |
+| -------------- | ----------------------------- |
+| **HTML5**      | Page structure and layout     |
+| **CSS3**       | Styling and responsive design |
+| **JavaScript** | Page logic and event handling |
 
 ---
 
 ## 🧠 What I Learned
 
-- Building multi-page feeling with a single HTML file  
-- Creating reusable layout sections (header, footer, cards)  
-- Responsive grid and text styling with CSS  
+- Building multi-page feeling with a single HTML file
+- Creating reusable layout sections (header, footer, cards)
+- Responsive grid and text styling with CSS
 - Writing clean, maintainable vanilla JavaScript
 
 ---
 
 ## 📌 Future Improvements
 
-- [ ] Add more post templates  
-- [ ] Improve article navigation and filtering  
-- [ ] Add dark mode toggle  
-- [ ] (Optional) Transition to React in future  
+- [ ] Add more post templates
+- [ ] Improve article navigation and filtering
+- [ ] Add dark mode toggle
+- [ ] (Optional) Transition to React in future
 
 ---
 
