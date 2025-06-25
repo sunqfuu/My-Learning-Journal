@@ -16,34 +16,34 @@ export const blogposts = [
     alt: "A person holding a lightbulb",
   },
   {
-    title: "Blog three",
+    title: "Random Password Generator",
     date: "2025-06-25",
     subhed:
-      "I'm excited to start a new learning journey as a Scrimba Bootcamp student! After several months of learning in the Frontend Developer Career Path.",
+      "This is a simple and secure Random Password Generator built with JavaScript. The tool generates strong passwords of customizable lengths with a mix of uppercase, lowercase letters, numbers, and special characters.",
     image: "./images/abstract.png",
     alt: "An abstract splash of color.",
   },
   {
-    title: "Blog four",
+    title: "Oldagram - Instagram Clone",
     date: "2025-06-25",
     subhed:
-      "I'm excited to start a new learning journey as a Scrimba Bootcamp student! After several months of learning in the Frontend Developer Career Path.",
+      "Oldagram is a simple Instagram-like feed page built with HTML, CSS, and JavaScript. Developed as part of the Scrimba Frontend Developer Career Path, this project focuses on: Dom manipulation, event handling, and responsive design.",
     image: "./images/beach.png",
     alt: "A woman on a beach.",
   },
   {
-    title: "Blog five",
+    title: "Restaurant Ordering Menu",
     date: "2025-06-25",
     subhed:
-      "I'm excited to start a new learning journey as a Scrimba Bootcamp student! After several months of learning in the Frontend Developer Career Path.",
+      "Interactive and polished menu design built in HTML, CSS, and JavaScript as part of the Scrimba Frontend Developer Path. This project simulates a restaurant ordering experience, allowing users to browse through various food categories and view detailed dish information.",
     image: "./images/science.png",
     alt: "A laptop with some code displayed.",
   },
   {
-    title: "Blog six",
+    title: "Twimba",
     date: "2025-06-25",
     subhed:
-      "I'm excited to start a new learning journey as a Scrimba Bootcamp student! After several months of learning in the Frontend Developer Career Path.",
+      "Twimba is your lightweight, frontend-only Twitter clone built from scratch using HTML, CSS, and JavaScript as part of the Scrimba Frontend Developer Path. Post tweets, like them, and enjoy a smooth, interactive UI—all without backend support.",
     image: "./images/outside.png",
     alt: "A laptop sitting on a picnic table outside.",
   },
