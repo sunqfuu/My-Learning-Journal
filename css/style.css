@@ -128,6 +128,27 @@ header {
 }
 
 .featured-article time{
+     font-size: 0.75rem;
+    font-weight: 400;
+}
+
+.featured-article p{
     font-size: 1rem;
     width: 80%;
+}
+
+.blog-roll {
+  display: grid;
+  padding-bottom: 1em;
+  gap: 2em;
+  grid-template-columns: 1fr;
+  margin-top: 2em;
+}
+
+.card-image{
+    width: 100%;
+    display: block;
+    height: 40vh;
+    object-fit: cover;
+    margin-bottom: 1em;
 }
