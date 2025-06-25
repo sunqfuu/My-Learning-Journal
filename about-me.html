@@ -1,0 +1,148 @@
+<html>
+  <head>
+    <title>My Learning Journal</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <!-- GOOGLE FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
+      rel="stylesheet"
+    />
+    <!-- FONT AWESOME ICONS -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <header class="contain-width">
+      <a href="index.html" class="site-info">
+        <image
+          class="nav-icon"
+          src="./images/icon.png"
+          alt="Site Icon - Chat Bubble"
+        />
+        <p class="nav-site-name">My Learning Journal</p>
+      </a>
+      <nav>
+        <i class="fa-solid fa-bars navigation-menu" id="navigation-menu"></i>
+        <div class="navigation-bar hide-nav-bar" id="navigation-bar">
+          <ul class="nav-list">
+            <li><a class="nav-link" href="index.html">Home</a></li>
+            <li><a class="nav-link" href="about-me.html">About Me</a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <main class="contain-width blog-post">
+      <div class="author-info">
+        <img
+          src="images/avatar.png"
+          class="about-me-avatar"
+          alt="Avatar for Scrimba Learning Site"
+        />
+        <div class="author-info-text">
+          <h1 class="blog-title">
+            Hi there! My name is Roku and welcome to my learning journal.
+          </h1>
+          <h2 class="blog-dek">
+            After several months of learning in the Frontend Developer Career
+            Path, I've made the big jump over to the Bootcamp to get expert code
+            reviews of my Solo Projects projects and meet like-minded peers.
+          </h2>
+        </div>
+      </div>
+      <div class="blog-content">
+        <h3 class="blog-subhed">How I stay committed to learning</h3>
+
+        <p>
+          I like to think of myself as a lifelong learner. I used to spend hours
+          and hours learning, then try to create simple projects using what I
+          learned or work new techniques into existing projects.
+        </p>
+
+        <p>
+          While that was fun, I felt like it would be helpful to share what I
+          was learning and most things about my journey with the world.
+        </p>
+
+        <h3 class="blog-subhed">How I got started</h3>
+
+        <p>
+          I started simple and gradually grew my learning journal site. I would
+          take notes about what I was learning. After each learning session, I'd
+          use my notes to not only reflect on what I learned but also write
+          short summaries of what I learned using my own words.
+        </p>
+
+        <p>
+          That helped me grok what I was learning, and I realized that posting
+          my learning summaries was also helping others learn and stay
+          motivated.
+        </p>
+      </div>
+    </main>
+    <hr />
+    <section class="blog-roll recent-posts contain-width" id="blog-roll">
+      <h4 class="recent-posts-title blog-subhed">Recent Posts</h4>
+      <div class="article-card">
+        <a href="#">
+          <img
+            class="card-image"
+            alt="A laptop on a desk"
+            src="./images/desk.png"
+          />
+          <time datetime="2022-07-23">JULY 23, 2022</time>
+          <h2>Blog one</h2>
+          <p>
+            I'm excited to start a new learning journey as a Scrimba Bootcamp
+            student! After several months of learning in the Frontend Developer
+            Career Path.
+          </p>
+        </a>
+      </div>
+      <div class="article-card">
+        <a href="#">
+          <img
+            class="card-image"
+            alt="A person holding a lightbulb"
+            src="./images/lightbulb.png"
+          />
+          <time datetime="2022-07-23">JULY 23, 2022</time>
+          <h2>Blog two</h2>
+          <p>
+            I'm excited to start a new learning journey as a Scrimba Bootcamp
+            student! After several months of learning in the Frontend Developer
+            Career Path.
+          </p>
+        </a>
+      </div>
+      <div class="article-card">
+        <a href="#">
+          <img
+            class="card-image"
+            alt="An abstract splash of colors"
+            src="./images/abstract.png"
+          />
+          <time datetime="2022-07-23">JULY 23, 2022</time>
+          <h2>Blog three</h2>
+          <p>
+            I'm excited to start a new learning journey as a Scrimba Bootcamp
+            student! After several months of learning in the Frontend Developer
+            Career Path.
+          </p>
+        </a>
+      </div>
+      <button class="view-more" id="view-more">View more</button>
+    </section>
+    <footer>
+      <a class="footer-site-name">My Learning Journal</a>
+      <p class="copyright">Copyright 2022</p>
+    </footer>
+    <script src="./javascript/recent.js" type="module"></script>
+  </body>
+</html>

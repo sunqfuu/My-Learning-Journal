@@ -1,3 +1,4 @@
+
 import { blogposts } from "./data.js"
 
 const navBar = document.getElementById("navigation-bar");
@@ -14,6 +15,7 @@ function openNavMenu(e) {
     e.stopPropagation();
     navBar.classList.toggle("hide-nav-bar");
 }
+
 
 function getBlogRollHtml() {
     return blogposts.map((post) => {
@@ -34,8 +36,8 @@ function getBlogRollHtml() {
     }).join("");
 }
 
-function render() {
-    document.getElementById("blog-roll").innerHTML = getBlogRollHtml();
-}
+document.getElementById('view-more').addEventListener('click', viewMoreClick);
 
-render();
+function viewMoreClick() {
+    document.getElementById("blog-roll").innerHTML = `<h4 class="recent-posts-title blog-subhed">Recent Posts</h4>${getBlogRollHtml()}`;
+}
