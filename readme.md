@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Markup-HTML5-E34F26?logo=html5&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deployed-GitHub%20Pages-6e5494?logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployed-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" />
 </p>
 
 <p align="center">
